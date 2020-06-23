@@ -1,6 +1,8 @@
 P6-Digest-HMAC
 ==============
 
+Fork from [@retupmoca's original](https://github.com/retupmoca/P6-Digest-HMAC) fixing some installation errors.
+
 ## Example Usage ##
 
     use Digest::HMAC;
