@@ -2,7 +2,8 @@
     "perl" : "6.c",
     "name" : "Digest::HMAC",
     "version" : "1.0.2",
-    "author" : "github:retupmoca",
+    "auth" : "github:retupmoca",
+    "authors": ["Andrew Egeler"],
     "description" : "Generic HMAC implementation",
     "depends" : [ "Digest" ],
     "provides" : {
