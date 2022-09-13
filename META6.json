@@ -2,10 +2,11 @@
     "perl" : "6.c",
     "name" : "Digest::HMAC",
     "version" : "1.0.2",
-    "auth" : "github:retupmoca",
+    "auth" : "github:JJ",
     "authors": ["Andrew Egeler"],
     "description" : "Generic HMAC implementation",
-    "depends" : [ "Digest" ],
+    "depends" : [ "Digest::ver<0.18.0+>" ],
+    "test-depends": ["Digest::SHA"],
     "provides" : {
         "Digest::HMAC" : "lib/Digest/HMAC.pm6"
     },
