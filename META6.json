@@ -2,7 +2,7 @@
     "perl" : "6.c",
     "name" : "Digest::HMAC",
     "version" : "1.0.3",
-    "auth" : "github:JJ",
+    "auth" : "zef:JJ",
     "authors": ["Andrew Egeler"],
     "description" : "Generic HMAC implementation",
     "depends" : [ "Digest::ver<0.18.0+>" ],
