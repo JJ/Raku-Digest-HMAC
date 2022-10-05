@@ -5,7 +5,7 @@
     "auth" : "zef:JJ",
     "authors": ["Andrew Egeler"],
     "description" : "Generic HMAC implementation",
-    "depends" : [ "Digest::ver<0.18.0+>" ],
+    "depends" : [ "Digest:ver<0.18.0+>" ],
     "test-depends": ["Digest::SHA"],
     "provides" : {
         "Digest::HMAC" : "lib/Digest/HMAC.pm6"
