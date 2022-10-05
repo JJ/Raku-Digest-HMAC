@@ -1,8 +1,8 @@
 {
     "perl" : "6.c",
     "name" : "Digest::HMAC",
-    "version" : "1.0.3",
-    "auth" : "zef:JJ",
+    "version" : "1.0.4",
+    "auth" : "zef:jjmerelo",
     "authors": ["Andrew Egeler"],
     "description" : "Generic HMAC implementation",
     "depends" : [ "Digest:ver<0.18.0+>" ],
