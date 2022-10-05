@@ -1,6 +1,6 @@
 use Test;
 
-plan 6;
+plan 3;
 
 use Digest::HMAC;
 use Digest;
