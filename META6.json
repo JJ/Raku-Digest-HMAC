@@ -3,7 +3,7 @@
     "name" : "Digest::HMAC",
     "version" : "1.0.4",
     "auth" : "zef:jjmerelo",
-    "authors": ["Andrew Egeler"],
+    "authors": ["Andrew Egeler", "JJ Merelo"],
     "description" : "Generic HMAC implementation",
     "depends" : [ "Digest:ver<0.18.0+>" ],
     "test-depends": [],
