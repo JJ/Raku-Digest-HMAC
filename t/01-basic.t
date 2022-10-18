@@ -4,6 +4,8 @@ plan 6;
 
 use Digest::HMAC;
 use Digest;
+use Digest::SHA1;
+use Digest::SHA2;
 
 # tests taken from wikipedia
 
