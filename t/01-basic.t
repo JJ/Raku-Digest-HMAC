@@ -3,7 +3,7 @@ use Test;
 plan 6;
 
 use Digest::HMAC;
-use Digest;
+use Digest::MD5;
 use Digest::SHA1;
 use Digest::SHA2;
 

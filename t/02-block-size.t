@@ -3,7 +3,7 @@ use Test;
 plan 3;
 
 use Digest::HMAC;
-use Digest;
+use Digest::MD5;
 
 # tests taken from wikipedia
 
