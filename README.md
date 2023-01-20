@@ -30,3 +30,9 @@ Fork from [@retupmoca's original](https://github.com/retupmoca/P6-Digest-HMAC) f
 
     `$blocksize` is the block size of the hash function. 64 is the default, and
     is correct for at least md5, sha1, sha256.
+
+## See also
+
+Since version 0.28, [`Digest`](https://raku.land/zef:grondilu/Digest) also
+ implements the HMAC algorithm, along with many others. You can use that one
+  for a more complete range of digest methods.
