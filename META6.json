@@ -7,7 +7,7 @@
     "description" : "Generic HMAC implementation",
     "test-depends" : [ "Digest:ver<1+>" ],
     "provides" : {
-        "Digest::HMAC" : "lib/Digest/HMAC.pm6"
+        "Digest::HMAC" : "lib/Digest/HMAC.rakumod"
     },
     "source-url" : "git://github.com/JJ/Raku-Digest-HMAC.git"
 }
